@@ -1,7 +1,7 @@
 [project]
-name = "repl-nix-pyinfo"
+name = "Pyinfo"
 version = "0.1.0"
-description = "Add your description here"
+description = "Simple information tracker"
 requires-python = ">=3.11"
 dependencies = [
     "requests>=2.32.3",
